@@ -1,1 +1,1 @@
-# canal-protocol
+# canal-vaults
